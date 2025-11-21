@@ -19,4 +19,4 @@ Tecnologias Utilizadas
  Instruções para Execução
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-temperaturas.git
+   git clone https://github.com/Deivesson-GIT/Conversor-De-temperaturas.git
